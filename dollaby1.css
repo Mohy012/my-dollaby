@@ -1,0 +1,50 @@
+/* body{
+    background-image:   url(dollaby1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   position: absolute;
+   height: 1000px;
+    
+
+} */
+ /* img{
+    position: absolute;
+    height: 700px;
+    width: 1500px;
+ } */
+  h1{
+    color: rgb(48, 45, 45);
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 70px;
+  }
+  h2{
+    color:rgb(84, 81, 81);
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    font-size: 30px;
+  }
+  p{
+    color:rgb(126, 123, 123);
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    font-size: 30px;
+  }
+  h3{
+    color:rgb(58, 57, 57);
+    position: absolute;
+    top: 62%;
+    left: 3%;
+    font-size: 70px;
+  }
+  h4{
+    color:rgba(13, 13, 14, 0.681);
+    position: absolute;
+    top: 80%;
+    right : 10%;
+    font-size: 40px;
+
+  }
